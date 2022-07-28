@@ -1,0 +1,132 @@
+body{
+    width: 10rem;
+    height: 10rem;
+    background-image: url(img/background_plaine.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+}
+.atck{
+    display: flex;
+    padding-left: 5rem;
+    width: 10rem;
+     height: 10rem;
+}
+
+.attaque{
+        padding-top: 45rem;
+        padding-left: 15rem;
+
+}
+
+img{
+    height: 15rem;
+    width: 15rem;
+    
+}
+
+    
+    
+
+.imag{
+    display: flex;
+    justify-content: center;
+    height: 10rem;
+    width: 10rem;
+    
+    
+}
+
+
+.fleche{
+    display: flex;
+}
+
+.fleche2{
+   padding-left: 50rem;
+   padding-bottom: 50rem;
+}
+
+#rotated-image {
+    transition: ease 3s;
+    -webkit-transform: rotate(130deg);
+            transform: rotate(130deg);
+            
+}
+
+#rotated-imagedos {
+    transition: ease 3s;
+    -webkit-transform: rotate(230deg);
+            transform: rotate(230deg);
+}
+
+#rotated-imagetres {
+    transition: ease 3s;
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+}
+/* .barredevie100{
+    height: 2rem;
+    width: 20rem;
+    background-color: green;
+}
+.barredevie75{
+    height: 2rem;
+    width: 15rem;
+    background-color: green;
+}
+.barredevie50{
+    height: 2rem;
+    width: 10rem;
+    background-color: green;
+}
+.barredevie25{
+    height: 2rem;
+    width: 5rem;
+    background-color: green;
+} */
+
+.tour{
+    display: flex;
+    margin-top: 10rem;
+    margin-left: 46rem;
+}
+
+.disable{
+    display: none;
+}
+
+#play2{
+    background-color: blue;
+}
+
+#monster2{
+   background-color: red;
+}
+.ennemy{
+    width: 145rem;
+     height: 70rem;
+    display: flex;
+    justify-content: center;
+    padding-left: 120rem;
+    
+}
+
+#war2{
+    padding-left: 5rem;
+}
+
+.displaySpawn{
+    display: none;
+}
+
+
+.left{
+    rotate: 280;
+}
+
+.right{
+    rotate: -280;
+}
+

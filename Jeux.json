@@ -1,0 +1,41 @@
+[
+    {
+        "nom":"Ricardo",
+        "health": 100,
+        "attaque":30,
+        "special":60
+    },
+    {
+        "nom":"bourin",
+        "health": 30,
+        "attaque":10
+        
+    },
+    {
+        "nom":"brave",
+        "health": 30,
+        "attaque":10
+        
+    },
+    {
+        "nom":"chetif",
+        "health": 30,
+        "attaque":10
+        
+    },
+    {
+        "nom":"clone",
+        "health": 30,
+        "attaque":10
+        
+    },
+    {
+        "nom":"invisible",
+        "health": 30,
+        "attaque":10
+        
+    }
+]
+
+
+
